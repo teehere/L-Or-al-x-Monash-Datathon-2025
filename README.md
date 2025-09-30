@@ -1,12 +1,12 @@
 # L’Oréal x Monash Datathon-2025
-L’Oréal x Monash Datathon-2025 by Datawave
+Team: Datawave
 
 ## Table of Contents
 - [Overview](#Introduction)
 - [Features](#Features)
 - [Limitations](#Limitations)
 - [Future Plan](#Future_Plan)
-- [Pitchdeck](#Pitchdeck)
+- [Resources](#Recources)
 - [Author](#Author)
 - [Lisence](#Lisence)
 
@@ -31,8 +31,11 @@ This project builds a multilingual data pipeline for processing comments and vid
 - Support visual dashboards for insights
 - Improve translation batching for speed and cost efficiency
 
-## Pitchdeck
-https://docs.google.com/presentation/d/1mqBq9-9hX60Dtkjh05iDvRemoUgrZO5b/edit?usp=sharing&ouid=111124910894004206261&rtpof=true&sd=true
+## Pitch Deck
+PitchDeck - https://docs.google.com/presentation/d/1mqBq9-9hX60Dtkjh05iDvRemoUgrZO5b/edit?usp=sharing&ouid=111124910894004206261&rtpof=true&sd=true
+
+## Recources
+Dataset   - https://drive.google.com/drive/folders/1QGySirHLPoY-DBT9zYsUKnvShVoiZSnr?usp=sharing
 
 ## Author
 - Tee Le Xuan
