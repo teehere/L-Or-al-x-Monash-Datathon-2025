@@ -17,7 +17,6 @@ This project builds a multilingual data pipeline for processing comments and vid
 - Merge and clean multiple CSV files of comments and videos
 - Detect the language of each comment
 - Translate non-English comments into English
-- Integrate video metadata (title, description, engagement metrics) with comment data
 - Export a final analysis-ready dataset for AI/ML tasks
 
 ## Limitations
