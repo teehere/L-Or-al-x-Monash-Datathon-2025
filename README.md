@@ -35,10 +35,3 @@ PitchDeck - [PitchDeck](https://docs.google.com/presentation/d/1mqBq9-9hX60Dtkjh
 
 ## Recources
 Dataset   - [Dataset](https://drive.google.com/drive/folders/1QGySirHLPoY-DBT9zYsUKnvShVoiZSnr?usp=sharing)
-
-## Author
-- Tee Le Xuan
-- Wong Zern Ye
-  
-## Lisence
-This project is protected by MIT [Lisence](LICENSE)
